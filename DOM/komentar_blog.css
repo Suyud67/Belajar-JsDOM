@@ -1,0 +1,21 @@
+/* form */
+section {
+  order: 1;
+  width: 30%;
+  background-color: #eee;
+  padding: 0.6em;
+  margin-top: 0.5em;
+  border-radius: 30px;
+  color: black;
+  font-size: 1.4rem;
+}
+
+section input {
+  width: 80%;
+  height: 2em;
+  padding: 5px;
+}
+
+section .comment-section {
+  overflow: scroll;
+}
